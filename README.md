@@ -18,7 +18,7 @@ The IPython notebook was run on a P100 GPU in the Kaggle / Google Colab Accelera
 
 # Results
 The results are summarized in the report (submitted in the gradescope). The quick overview of the results can be found below. 
-![Results](images/results.png)
+![Results](results.png)
 
 
 
