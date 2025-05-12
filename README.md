@@ -1,5 +1,4 @@
-# dl-p3
-Adversarial Attacks on Neural Nets.
+# Adversarial Attacks on Neural Nets.
 
 This repository contains the Python code (written in the Jupyter Notebook) for the 
 
