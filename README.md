@@ -10,4 +10,17 @@ This repository contains the Python code (written in the Jupyter Notebook) for t
 6. Transfer attack on DenseNet121 from the ResNet34 trained on ImageNet1K V1 dataset for the 2, 3, 4, and 5. attacks.
 
 
+## The Dataset
+The dataset is the zip file TestDataSet.zip. It contains the 100 class labels for ImageNet1K V1. 
+
+## Infrastructure 
+The IPython notebook was run on a P100 GPU in the Kaggle / Google Colab Accelerators. 
+
+# Results
+The results are summarized in the report (submitted in the gradescope). The quick overview of the results can be found below. 
+![Results](images/results.png)
+
+
+
+
 
